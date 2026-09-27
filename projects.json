@@ -1,0 +1,58 @@
+[
+  {
+    "nama_kategori": "Retail & Operations",
+    "deskripsi": "Aplikasi pengelolaan stok, barcode, dan operasional toko.",
+    "icon": "📦",
+    "projek_list": [
+      {
+        "nama": "StoreOps Auto Collage",
+        "deskripsi": "Otomatisasi kolase untuk efisiensi dokumentasi toko.",
+        "url": "https://github.io"
+      },
+      {
+        "nama": "QR Barcode Print",
+        "deskripsi": "Utility untuk pencetakan label QR dan Barcode secara instan.",
+        "url": "https://github.io"
+      }
+    ]
+  },
+  {
+    "nama_kategori": "Scanner & Utility",
+    "deskripsi": "Kumpulan perkakas pemindai berbasis web yang cepat dan responsif.",
+    "icon": "🔍",
+    "projek_list": [
+      {
+        "nama": "Lomag Scan Cloud",
+        "deskripsi": "Sistem pemindaian barcode terintegrasi dengan penyimpanan cloud.",
+        "url": "https://github.io"
+      },
+      {
+        "nama": "Lomag Scan Meta",
+        "deskripsi": "Pemindai serbaguna untuk ekstraksi metadata barcode.",
+        "url": "https://github.io"
+      },
+      {
+        "nama": "Lomag Scan Base",
+        "deskripsi": "Core engine barcode scanner untuk kebutuhan lokal.",
+        "url": "https://github.io"
+      }
+    ]
+  },
+  {
+    "nama_kategori": "School & Finance",
+    "deskripsi": "Sistem pencatatan keuangan dan administrasi berbasis web.",
+    "icon": "📊",
+    "projek_list": [
+      {
+        "nama": "Laporan Kas SMP 3",
+        "deskripsi": "Dashboard pencatatan kas kelas yang rapi dan transparan.",
+        "url": "https://github.io"
+      },
+      {
+        "nama": "Schedule Timestamps Meta",
+        "deskripsi": "Pencatatan waktu dan manajemen jadwal log aktivitas.",
+        "url": "https://github.io"
+      }
+    ]
+  }
+]
