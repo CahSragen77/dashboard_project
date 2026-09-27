@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CS77 Personal Portfolio Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="main-header">
+        <h1>CS77 Hub</h1>
+        <p>Katalog Aplikasi & Repositori Proyek Pengembangan Web</p>
+    </header>
+
+    <main class="container">
+        <!-- Tombol Kembali yang hanya muncul di halaman detail kategori -->
+        <div id="navigation-area" class="hidden">
+            <button id="btn-back" class="btn-secondary">⬅️ Kembali ke Kategori</button>
+            <h2 id="current-category-title">Nama Kategori</h2>
+        </div>
+
+        <!-- Wadah Utama Tampilan Dinamis -->
+        <div id="dashboard-board" class="grid-layout">
+            <!-- Konten diisi oleh JavaScript -->
+        </div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
